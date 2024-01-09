@@ -1,0 +1,16 @@
+numpy>=1.19.2
+matplotlib>=3.3.2
+scipy>=1.5.2
+jaxlib>=0.3.7
+jax>=0.3.8
+jupyter>=1.0.0
+sympy~=1.11.1
+jupyterlab>=3.0.0
+pytest>=6.1.1
+flake8>=3.8.4
+seaborn>=0.11.1
+tqdm>= 4.56
+numba~=0.56.4
+h5py~=3.7.0
+
+setuptools~=58.1.0
